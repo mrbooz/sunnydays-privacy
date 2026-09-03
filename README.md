@@ -1,6 +1,6 @@
 # Sunny Days — Privacy Policy
 
-_Last updated: 1 September 2026_
+_Last updated: 2 September 2026_
 
 Sunny Days is a weather app for children. We have built it so that it collects
 as little as possible about the people who use it — especially children.
@@ -14,16 +14,15 @@ as little as possible about the people who use it — especially children.
 - We do **not** ask a child for payment details. Purchases happen only through
   Google Play, behind a grown-up gate.
 - We do **not** collect persistent advertising identifiers.
+- We do **not** request or use device location.
 
 ## What the app uses, and why
 
-**Approximate location (optional).** If you allow it, the app reads your
-device's approximate location so it can show the weather where you are. The
-coordinates are sent to our weather provider, Open-Meteo
-(https://open-meteo.com), solely to fetch a forecast. Open-Meteo does not
-require an account and we send nothing else with the request — no identifier,
-no name, no device information. If you decline, the app shows a saved place
-instead and works normally.
+**No location access.** The app does not ask for, and cannot read, your
+device's location. A grown-up chooses a town by name when the app is first
+opened. To fetch the forecast we send only that town's published coordinates
+to our weather provider, Open-Meteo (https://open-meteo.com) — nothing that
+identifies you, your device, or where you actually are.
 
 **Saved places.** The cities you save are stored on the device only.
 
